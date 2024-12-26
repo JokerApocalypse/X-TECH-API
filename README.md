@@ -1,7 +1,7 @@
 
-# 🚀 Xeon Bug API
+# 🚀X-TECH-Bug API
 
-The **Xeon Bug API** is a powerful endpoint API developed by **[Dream Guy Xeon](https://github.com/DGXeon)** to exploit vulnerabilities in WhatsApp. This API provides endpoints that can:
+The **X-TECH-Bug API** is a powerful endpoint API developed by **[X-TECH-CORP](https://github.com/X-TECH-CORP)** to exploit vulnerabilities in WhatsApp. This API provides endpoints that can:
 
 - 🛑 Delay WhatsApp on Android devices.
 - 🌋 Spam Call Users on WhatsApp.
@@ -105,6 +105,6 @@ curl -X GET "https://xeon-bug-api.onrender.com/crashGroup?target=https://chat.wh
 
 ---
 
-### 👨‍💻 Developed By: **[Dream Guy Xeon](https://github.com/DGXeon)**
+### 👨‍💻 Developed By: **[X-TECH-CORP](https://github.com/X-TECH-CORP)**
 
 Enjoy bugging responsibly! ✨
