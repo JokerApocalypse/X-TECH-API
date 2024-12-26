@@ -1,6 +1,6 @@
 # X-TECH-API
 🚀 X-TECH Bug API
-The Xeon Bug API is a powerful endpoint API developed by X-TECH to exploit vulnerabilities in WhatsApp. This API provides endpoints that can:
+The X-TECH Bug API is a powerful endpoint API developed by X-TECH to exploit vulnerabilities in WhatsApp. This API provides endpoints that can:
 
 🛑 Delay WhatsApp on Android devices.
 🌋 Spam Call Users on WhatsApp.
